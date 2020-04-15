@@ -1,0 +1,8 @@
+Hey, Atom gives me this mistake when I'm trying to import Keras:
+ModuleNotFoundError: No module named 'keras.models'; 'keras' is not a package
+
+In Jupyter and IDLE of Python it works. With Atom I use Python 3.6.8 and in Anaconda Python 3.6.10.
+In Atom Tensorflow works, Numpy, Matplotlib etc but not Keras. I also set the PATH system variables. I don't understand.
+How can I do it?
+Thank you 
+ric
